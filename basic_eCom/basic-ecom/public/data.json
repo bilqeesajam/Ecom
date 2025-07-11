@@ -1,0 +1,70 @@
+{
+    "users": [
+        {
+            "user_id": "1",
+            "username": "johnboy",
+            "password": "qwertyuiop"
+        },
+        {
+            "user_id": "2",
+            "username": "luke123",
+            "password": "asdfghjkl"
+        }
+    ],
+    "items": [
+        {
+            "item_id": "1",
+            "item_name": "Mindful Journal",
+            "item_description": "A guided journal to help you reflect and set life goals.",
+            "item_url": "https:\/\/www.leatherneo.com\/cdn\/shop\/articles\/img-1704854220174.jpg?v=1704854464",
+            "item_price": "300"
+        },
+        {
+            "item_id": "2",
+            "item_name": "Gratitude Cards",
+            "item_description": "A pack of inspirational cards to promote daily thankfulness.",
+            "item_url": "https:\/\/images-cdn.ubuy.co.in\/634ea3655e194b2b166f340c-180-black-gold-thank-you-for-supporting.jpg",
+            "item_price": "150"
+        },
+        {
+            "item_id": "3",
+            "item_name": "Aromatherapy Candle",
+            "item_description": "Lavender-scented soy candle for stress relief and mindfulness.",
+            "item_url": "https:\/\/www.linenandglass.co.za\/cdn\/shop\/files\/PASTEL-Sand.jpg?v=1716887120",
+            "item_price": "180"
+        },
+        {
+            "item_id": "4",
+            "item_name": "Self-Care Planner",
+            "item_description": "A weekly planner with mental health check-ins and habit trackers.",
+            "item_url": "https:\/\/herevolvement.com\/cdn\/shop\/files\/HerEvolvement-bestself-careplannertheSoftSelf-CarePlanner.png?v=1688425447&width=1445",
+            "item_price": "250"
+        },
+        {
+            "item_id": "5",
+            "item_name": "Affirmation Sticker Pack",
+            "item_description": "A set of motivational quote stickers for journals or laptops.",
+            "item_url": "https:\/\/kwohtations.com\/cdn\/shop\/products\/ST-104AffirmationStickerSheet_Kwohtations_1600x.png?v=1629939549",
+            "item_price": "90"
+        },
+        {
+            "item_id": "6",
+            "item_name": "Digital Detox Kit",
+            "item_description": "Tools and a guidebook for reducing screen time and reclaiming focus.",
+            "item_url": "https:\/\/assets.digitalcontent.marksandspencer.app\/image\/upload\/w_400,q_auto,f_auto\/MS_07_T23_6743G_NC_X_EC_0",
+            "item_price": "320"
+        }
+    ],
+    "cart": [
+        {
+            "cart_id": "1",
+            "item_id": "1",
+            "user_id": "1"
+        },
+        {
+            "cart_id": "2",
+            "item_id": "1",
+            "user_id": "2"
+        }
+    ]
+}
