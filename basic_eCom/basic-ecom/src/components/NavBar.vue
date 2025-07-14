@@ -18,9 +18,6 @@
           <li class="nav-item">
             <router-link to="/products" class="nav-link" active-class="active">Products</router-link>
           </li>
-          <li class="nav-item">
-            <router-link to="/cart" class="nav-link" active-class="active">Cart</router-link>
-          </li>
         </ul>
         <ul class="navbar-nav">
           <li class="nav-item">
